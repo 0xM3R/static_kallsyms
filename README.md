@@ -5,7 +5,7 @@ This script was forked from laginimaineb/static_kallsyms with my own fixes and a
 
 Tested on kernels of the following devices:
   Samsung Galaxy s5 (32 bit)
-  LG nexus 5x (64 bit)
-  HTC one plus x (32 bit)
-  Huawei nexus 6p (64 bit)
+  LG Nexus 5x (64 bit)
+  HTC One Plus X (32 bit)
+  Huawei Nexus 6p (64 bit)
   Goldfish emulation kernel (64 bit)
